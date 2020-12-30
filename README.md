@@ -30,7 +30,7 @@ You should have python3 installed on your machine.
 
 Now you can play around with the program and you can use the examples below as a references
 
-##Example 1:
+## Example 1:
 
 ```
 H A N G M A N
@@ -96,7 +96,7 @@ You lost!
 Type "play" to play the game, "exit" to quit: > exit
 ```
 
-##Example 2:
+## Example 2:
 
 ```
 H A N G M A N
