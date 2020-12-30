@@ -2,7 +2,9 @@
 
 This is a program that implement the famous hangman game, with python3. 
 
+```
 Hint: the words you should guess is a name for programming language (; 
+```
 
 ## Get started 
 
@@ -17,7 +19,7 @@ You should have python3 installed on your machine.
 2. Navigate to the app directory
 
 ```
-    cd coffee_machine 
+    cd hangman 
 ```
 
 3. Run the program 
@@ -94,7 +96,7 @@ You lost!
 Type "play" to play the game, "exit" to quit: > exit
 ```
 
-##Example 1:
+##Example 2:
 
 ```
 H A N G M A N
