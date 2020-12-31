@@ -1,4 +1,4 @@
-# Python Coffee Machine Program 
+# Python Hangman Game 
 
 This is a program that implement the famous hangman game, with python3. 
 
